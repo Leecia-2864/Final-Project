@@ -1,8 +1,7 @@
 # Final-Project
 # Where should a drinks company run promotions?¶
 ## 📖 Background
-#### Your company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The marketing team would like to target 10 other regions that have similar buying habits to Saint Petersburg where they would expect the promotion to be similarly successful.
-
+#### A business owns a chain of establishments selling various alcoholic beverages all over Russia. Recently, the business successfully promoted wine in Saint Petersburg. The promotion cannot be run across the globe due to the expense to the company. The marketing team wants to focus on ten more areas with comparable purchasing patterns to Saint Petersburg where they anticipate the promotion to be as successful.
 ## The data
 #### The marketing team has sourced you with historical sales volumes per capita for several different drinks types.
 
